@@ -89,7 +89,16 @@ python pretrain_and_tune.py
 
 ## Cite our work
 ```bibtex
-Coming soon...
+@article{han_2025_hgst,
+  title = {Hypergraph-Based Semantic and Topological Self-Supervised Learning for Brain Disease Diagnosis},
+  author = {Han, Xiangmin and Lei, Mengqi and Li, Junchang},
+  journal = {Pattern Recognition},
+  year = {2026},
+  month = jan,
+  volume = {169},
+  pages = {111921},
+  doi = {110.1016/j.patcog.2025.111921},
+}
 ```
 
 ## License
